@@ -1,4 +1,4 @@
-# Harry Chang - @HarryChang30 👋
+# Harry Chang 👋
 
 <!--
 **HarryChang30/HarryChang30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
